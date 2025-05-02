@@ -21,7 +21,7 @@ Flutter ile geliştirilen bu mobil uygulama, kullanıcıların Firebase Authenti
 
 ## 🖼️ Ekran Görüntüleri
 
-| Giriş Ekranı | Toplantı Ekranı | Ana Sayfa |
+| Ana Sayfa | Chat Ekranı | Toplantı Ekranı |
 |-------------|------------------|-----------|
 | ![Login](https://github.com/user-attachments/assets/7c619853-126b-4d74-88bb-8011f6a21716) | ![Meeting](https://github.com/user-attachments/assets/045d083f-2793-4362-9ee7-82f9072a33c2) | ![Dashboard](https://github.com/user-attachments/assets/688934ed-b69d-4665-8c2e-f4dd159c9755) |
 
